@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\Unidad 1 - POO Avanzada\\Ejercicios\\RepasoObjetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E302805-6700-4C48-B07C-345BB363F9FB}|RepasoObjetos.csproj|g:\\gabriel\\programaci\u00F3n\\utn\\segundo cuatrimestre 2024\\programacion ii\\unidad 1 - poo avanzada\\ejercicios\\repasoobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E302805-6700-4C48-B07C-345BB363F9FB}|RepasoObjetos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E302805-6700-4C48-B07C-345BB363F9FB}|RepasoObjetos.csproj|g:\\gabriel\\programaci\u00F3n\\utn\\segundo cuatrimestre 2024\\programacion ii\\unidad 1 - poo avanzada\\ejercicios\\repasoobjetos\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E302805-6700-4C48-B07C-345BB363F9FB}|RepasoObjetos.csproj|solutionrelative:pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E302805-6700-4C48-B07C-345BB363F9FB}|RepasoObjetos.csproj|g:\\gabriel\\programaci\u00F3n\\utn\\segundo cuatrimestre 2024\\programacion ii\\unidad 1 - poo avanzada\\ejercicios\\repasoobjetos\\suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E302805-6700-4C48-B07C-345BB363F9FB}|RepasoObjetos.csproj|solutionrelative:suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E302805-6700-4C48-B07C-345BB363F9FB}|RepasoObjetos.csproj|g:\\gabriel\\programaci\u00F3n\\utn\\segundo cuatrimestre 2024\\programacion ii\\unidad 1 - poo avanzada\\ejercicios\\repasoobjetos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E302805-6700-4C48-B07C-345BB363F9FB}|RepasoObjetos.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E302805-6700-4C48-B07C-345BB363F9FB}|RepasoObjetos.csproj|g:\\gabriel\\programaci\u00F3n\\utn\\segundo cuatrimestre 2024\\programacion ii\\unidad 1 - poo avanzada\\ejercicios\\repasoobjetos\\iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E302805-6700-4C48-B07C-345BB363F9FB}|RepasoObjetos.csproj|solutionrelative:iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pack.cs",
+              "DocumentMoniker": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\Unidad 1 - POO Avanzada\\Ejercicios\\RepasoObjetos\\Pack.cs",
+              "RelativeDocumentMoniker": "Pack.cs",
+              "ToolTip": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\Unidad 1 - POO Avanzada\\Ejercicios\\RepasoObjetos\\Pack.cs",
+              "RelativeToolTip": "Pack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:38:16.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Suelto.cs",
+              "DocumentMoniker": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\Unidad 1 - POO Avanzada\\Ejercicios\\RepasoObjetos\\Suelto.cs",
+              "RelativeDocumentMoniker": "Suelto.cs",
+              "ToolTip": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\Unidad 1 - POO Avanzada\\Ejercicios\\RepasoObjetos\\Suelto.cs",
+              "RelativeToolTip": "Suelto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:36:08.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\Unidad 1 - POO Avanzada\\Ejercicios\\RepasoObjetos\\Producto.cs",
+              "RelativeDocumentMoniker": "Producto.cs",
+              "ToolTip": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\Unidad 1 - POO Avanzada\\Ejercicios\\RepasoObjetos\\Producto.cs",
+              "RelativeToolTip": "Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:29:36.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrecio.cs",
+              "DocumentMoniker": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\Unidad 1 - POO Avanzada\\Ejercicios\\RepasoObjetos\\IPrecio.cs",
+              "RelativeDocumentMoniker": "IPrecio.cs",
+              "ToolTip": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\Unidad 1 - POO Avanzada\\Ejercicios\\RepasoObjetos\\IPrecio.cs",
+              "RelativeToolTip": "IPrecio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:28:25.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\Unidad 1 - POO Avanzada\\Ejercicios\\RepasoObjetos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\Unidad 1 - POO Avanzada\\Ejercicios\\RepasoObjetos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T17:04:06.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
